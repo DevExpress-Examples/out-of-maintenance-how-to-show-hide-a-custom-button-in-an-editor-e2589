@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication17/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication17/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/WpfApplication17/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication17/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to show/hide a custom button in an editor
 
 
