@@ -1,7 +1,7 @@
 <Window x:Class="WpfApplication17.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:dxet="clr-namespace:DevExpress.Xpf.Editors.Themes;assembly=DevExpress.Xpf.Core.v21.1"
+        xmlns:dxet="clr-namespace:DevExpress.Xpf.Editors.Themes;assembly=DevExpress.Xpf.Core.v22.2"
         xmlns:local="clr-namespace:WpfApplication17"
         Title="MainWindow" Height="254" Width="408" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors">
     <Grid>
